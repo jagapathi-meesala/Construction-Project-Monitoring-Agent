@@ -1,0 +1,25 @@
+spec_version: "0.1.0"
+name: construction-project-monitoring-agent
+version: 1.0.0
+description: Framework-independent agent for monitoring construction project progress, cost, schedule, risks, and safety observations.
+author: Agent Passport Project
+license: MIT
+skills:
+  - project-progress-monitoring
+  - construction-risk-monitoring
+  - cost-schedule-analysis
+tools:
+  - project-health
+  - schedule-progress
+  - cost-variance
+  - risk-register
+  - safety-observation
+runtime:
+  max_turns: 20
+  timeout: 120
+tags:
+  - construction
+  - project-monitoring
+  - scheduling
+  - cost-control
+  - risk-management
