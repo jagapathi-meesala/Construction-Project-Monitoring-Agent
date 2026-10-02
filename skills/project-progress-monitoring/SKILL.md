@@ -1,3 +1,8 @@
+---
+name: project-progress-monitoring
+description: Monitor construction project progress against planned milestones and identify schedule deviations.
+---
+
 # Project Progress Monitoring
 ## Purpose
 Monitor planned versus actual physical progress and combine progress indicators into a project-health view.

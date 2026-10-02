@@ -1,3 +1,8 @@
+---
+name: construction-risk-monitoring
+description: Identify and monitor construction project risks, their severity, ownership, and mitigation status.
+---
+
 # Construction Risk Monitoring
 ## Purpose
 Evaluate documented construction risks and safety observations using transparent scoring bands.

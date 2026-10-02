@@ -1,3 +1,8 @@
+---
+name: cost-schedule-analysis
+description: Analyze construction project cost and schedule variance using supplied project metrics.
+---
+
 # Cost and Schedule Analysis
 ## Purpose
 Analyze budget usage and schedule performance from user-supplied project measurements.
