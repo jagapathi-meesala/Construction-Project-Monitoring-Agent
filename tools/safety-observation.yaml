@@ -1,0 +1,13 @@
+name: safety-observation
+description: Construction project monitoring tool for safety-observation.
+version: 1.0.0
+input_schema:
+  type: object
+  properties: {}
+  additionalProperties: true
+output_schema:
+  type: object
+implementation:
+  type: script
+  path: safety_observation.py
+  runtime: python3

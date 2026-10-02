@@ -1,0 +1,13 @@
+name: project-health
+description: Construction project monitoring tool for project-health.
+version: 1.0.0
+input_schema:
+  type: object
+  properties: {}
+  additionalProperties: true
+output_schema:
+  type: object
+implementation:
+  type: script
+  path: project_health.py
+  runtime: python3

@@ -1,0 +1,13 @@
+name: risk-register
+description: Construction project monitoring tool for risk-register.
+version: 1.0.0
+input_schema:
+  type: object
+  properties: {}
+  additionalProperties: true
+output_schema:
+  type: object
+implementation:
+  type: script
+  path: risk_register.py
+  runtime: python3
